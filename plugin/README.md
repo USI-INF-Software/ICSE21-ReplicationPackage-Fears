@@ -18,6 +18,8 @@ To install the plugin on one of supported IDEs, go to `Preference > Plugin > Gea
 
 ### How to use the plugin
 
+![](https://fears.si.usi.ch/img/fears-sample.gif)
+
 ![Plugin usage](./img/Plugin_usage.png)
 
 1. After the plugin is installed, press on the <img src="./img/play_icon.png" height = 20> icon to start monitoring the method changes.

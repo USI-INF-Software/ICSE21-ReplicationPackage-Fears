@@ -13,7 +13,7 @@ The plugin can be installed on *Android Studio* and *IntelliJ IDEA* IDEs.
 
 ![Plugin installation](./img/Plugin_installation.png)
 
-To install the plugin on one of supported IDEs, go to `Preference > Plugin > Gear Icon > Install plugin from Disk` and select the `FeaRS-Plugin.zip` file (without manually unzipping it).
+To install the plugin on one of supported IDEs, go to `Preference > Plugin > Gear Icon > Install plugin from Disk` and select the `FeaRS.zip` file (without manually unzipping it).
 
 
 ### How to use the plugin
